@@ -8,6 +8,7 @@ import blog7 from './blog7.jpg';
 import blog8 from './blog8.jpg';
 import logo1 from './logo1.png';
 import arrow from './arrow.png';
+import logo_night from './logo_night.png';
 import profil_icon from './profile_icon.png';
 
 
@@ -21,7 +22,7 @@ export const asset= {
     blog6,
     blog7,
     blog8,
-    profil_icon,arrow
+    profil_icon,arrow,logo_night
 }
 
 export const blog_data= [

@@ -1,10 +1,13 @@
 import { asset, blog_data } from '@/app/asset/asset'
 import Image from 'next/image'
-import React from 'react'
+
 
 function BLogitem({title,description,category,image}) {
+
+
+
     return (
-        <div className='max-w-[330px]  sm:max-w[300px] bg-white border border-black'>
+        <div className='max-w-[330px]  sm:max-w[300px] bg-white border border-black hover:shadow-[-7px_7px_0px_#000000]'>
             <Image src={image} alt='' width={400} height={400} className='border-b border-black' />
 
 

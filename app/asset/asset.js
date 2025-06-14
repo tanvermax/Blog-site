@@ -8,12 +8,15 @@ import blog7 from './blog7.jpg';
 import blog8 from './blog8.jpg';
 import logo1 from './logo1.png';
 import arrow from './arrow.png';
+import fb_icon from './fb_icon.png';
+import twitter from './twitter.png';
+import google_plus from './google_plus.png';
 import logo_night from './logo_night.png';
 import profil_icon from './profile_icon.png';
 
 
 export const asset= {
-    logo1,
+    logo1,fb_icon,twitter,google_plus,
     blog1,
     blog2,
     blog3,
@@ -22,7 +25,7 @@ export const asset= {
     blog6,
     blog7,
     blog8,
-    profil_icon,arrow,logo_night
+    profil_icon,arrow,logo_night,fb_icon
 }
 
 export const blog_data= [
@@ -178,4 +181,4 @@ export const blog_data= [
     }
   ]
 
-export {arrow, profil_icon,logo1,blog1, blog2, blog3, blog4, blog5, blog6, blog7, blog8 };
+export {twitter,google_plus,logo_night,fb_icon,arrow, profil_icon,logo1,blog1, blog2, blog3, blog4, blog5, blog6, blog7, blog8 };

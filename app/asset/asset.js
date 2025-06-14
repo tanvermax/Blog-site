@@ -74,6 +74,106 @@ export const blog_data= [
       "category": "Programming",
       "author": "Michael Lee",
       "author_profile": profil_icon
+    },
+    {
+      "id": 6,
+      "title": "The Evolution of JavaScript Frameworks",
+      "description": "Tracking the journey of JavaScript frameworks from jQuery to modern solutions like Svelte and Solid.js.",
+      "image": blog6,
+      "date": "2025-02-18",
+      "category": "Programming",
+      "author": "David Wilson",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Best Practices for Developers",
+      "description": "Essential security measures every developer should implement in their applications.",
+      "image": blog7,
+      "date": "2025-01-22",
+      "category": "Security",
+      "author": "Sarah Kim",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 8,
+      "title": "Building Microservices with Node.js",
+      "description": "A comprehensive guide to creating scalable microservices architecture using Node.js.",
+      "image": blog8,
+      "date": "2024-12-15",
+      "category": "Backend",
+      "author": "Robert Taylor",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 9,
+      "title": "The Future of AR/VR in Web Development",
+      "description": "How augmented and virtual reality technologies are transforming user experiences on the web.",
+      "image": blog1, // Reusing image as example
+      "date": "2024-11-30",
+      "category": "Technology",
+      "author": "Lisa Wong",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 10,
+      "title": "Progressive Web Apps: The Complete Guide",
+      "description": "Everything you need to know about building reliable, fast, and engaging PWAs.",
+      "image": blog2, // Reusing image as example
+      "date": "2024-10-12",
+      "category": "Mobile",
+      "author": "James Miller",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 11,
+      "title": "Machine Learning for Frontend Developers",
+      "description": "How to integrate ML models into your frontend applications using TensorFlow.js.",
+      "image": blog3, // Reusing image as example
+      "date": "2024-09-05",
+      "category": "AI",
+      "author": "Olivia Davis",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 12,
+      "title": "CSS Grid vs Flexbox: When to Use Each",
+      "description": "A practical comparison of CSS layout systems with real-world use cases.",
+      "image": blog4, // Reusing image as example
+      "date": "2024-08-20",
+      "category": "CSS",
+      "author": "Daniel Harris",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 13,
+      "title": "The State of Web3 Development in 2025",
+      "description": "Current trends, tools, and challenges in Web3 and decentralized application development.",
+      "image": blog5, // Reusing image as example
+      "date": "2024-07-14",
+      "category": "Blockchain",
+      "author": "Sophia Martinez",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 14,
+      "title": "Building Accessible Web Applications",
+      "description": "Comprehensive guide to implementing WCAG standards and creating inclusive web experiences.",
+      "image": blog6, // Reusing image as example
+      "date": "2024-06-08",
+      "category": "Accessibility",
+      "author": "William Anderson",
+      "author_profile": profil_icon
+    },
+    {
+      "id": 15,
+      "title": "Serverless Architecture: Pros and Cons",
+      "description": "Analyzing the benefits and limitations of serverless computing for modern applications.",
+      "image": blog7, // Reusing image as example
+      "date": "2024-05-01",
+      "category": "Cloud",
+      "author": "Ava Thomas",
+      "author_profile": profil_icon
     }
   ]
 
